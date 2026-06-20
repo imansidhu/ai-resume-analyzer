@@ -33,6 +33,16 @@ const Summary = ({ feedback }: { feedback: Feedback }) => {
                         This score is calculated based on the variables listed below.
                     </p>
                 </div>
+                <div className="mt-4 p-4 rounded-xl bg-gray-100">
+    <h3 className="font-bold text-lg">
+        Career Insight
+    </h3>
+
+    <p className="text-sm text-gray-600 mt-2">
+        Your resume has been analyzed using ATS standards.
+        Improve your weak areas to increase your chances of getting shortlisted.
+    </p>
+</div>
             </div>
 
             <Category title="Tone & Style" score={feedback.toneAndStyle.score} />
