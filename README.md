@@ -81,3 +81,14 @@ app
 │ └── utilities
 │
 └── constants
+
+## 📸 Screenshots
+
+### Home Dashboard
+![Home](public/screenshots/home.png)
+
+### Resume Upload
+![Upload](public/screenshots/upload.png)
+
+### AI Feedback
+![Feedback](public/screenshots/feedback.png)
