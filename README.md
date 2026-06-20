@@ -85,10 +85,10 @@ app
 ## 📸 Screenshots
 
 ### Home Dashboard
-![Home](public/screenshots/home.png)
+![Home](./public/screenshots/home.png)
 
 ### Resume Upload
-![Upload](public/screenshots/upload.png)
+![Upload](./public/screenshots/upload.png)
 
 ### AI Feedback
-![Feedback](public/screenshots/feedback.png)
+![Feedback](./public/screenshots/feedback.png)
